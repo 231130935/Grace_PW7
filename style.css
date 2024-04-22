@@ -1,0 +1,20 @@
+:root{
+    background-color: white;
+    }
+    main{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    span{color: rgb(13, 163, 209);}
+        h3{
+            background-color: aquamarine;
+            font-size: large;
+            font-weight: bold;
+            font-family:'Courier New', Courier, monospace;
+            color:crimson;
+            margin: 0;
+            padding: 0;
+        }
+img{
+    width: 400px;
+    height: 300px;
+}
